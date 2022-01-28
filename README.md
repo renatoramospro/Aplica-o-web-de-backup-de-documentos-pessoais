@@ -1,4 +1,4 @@
-# CatEnd - Uma aplicação web de armazenamento de backup de documentos pessoais.
+# CatEnd - Uma aplicação web de armazenamento de backup de documentos pessoais. O CatEnd é um serviço de hospedagem de backup de arquivos de documentos pessoais em nuvem que pode ser usado de forma gratuita no limite de até 2 GB de conteúdo. A ferramenta permite o armazenamento de apenas documentos pessoais com extensão .doc .txt .pdf e etc. Assim, o usuário libera espaço de memória em seu smartphone, notebook ou desktop.
 
 📝 Atividades do projeto:
 
